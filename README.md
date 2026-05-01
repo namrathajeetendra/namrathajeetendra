@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,E8A0BF,D4A0D8&height=200&section=header&text=Namratha%20Jeetendra&fontSize=42&fontColor=fff&fontAlignY=38&desc=Product%20%26%20Data%20Analyst%20%E2%80%A2%20UMD%20M.S.%20Data%20Science%20%2727&descSize=16&descAlignY=58&descColor=ffe0ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Namratha%20Jeetendra&fontSize=42&fontColor=fff&fontAlignY=38&desc=Product%20%26%20Data%20Analyst%20%E2%80%A2%20UMD%20M.S.%20Data%20Science%20%2727&descSize=16&descAlignY=58&descColor=ffe0ea" width="100%"/>
 
 <br/>
 
@@ -85,6 +85,6 @@ Currently open to **Summer 2026 internships** in Product Analytics and Data Anal
 
 *From Chennai 🌴 · Based in College Park, MD · Always learning*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,E8A0BF,D4A0D8&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8829A&height=100&section=footer" width="100%"/>
 
 </div>
