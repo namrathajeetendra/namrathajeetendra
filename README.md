@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,C8A8D8,A8C8B8&height=200&section=header&text=Namratha%20Jeetendra&fontSize=42&fontColor=fff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20NLP%20%E2%80%A2%20UMD%20M.S.%20%2727&descSize=16&descAlignY=58&descColor=ffe0ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,E8A0BF,D4A0D8&height=200&section=header&text=Namratha%20Jeetendra&fontSize=42&fontColor=fff&fontAlignY=38&desc=Product%20%26%20Data%20Analyst%20%E2%80%A2%20UMD%20M.S.%20Data%20Science%20%2727&descSize=16&descAlignY=58&descColor=ffe0ea" width="100%"/>
 
 <br/>
 
@@ -20,9 +20,9 @@
 
 I'm a **Data Science grad student at the University of Maryland** (graduating May 2027), with a background in Computer Science and AI/ML from SRM Institute of Science & Technology, Chennai.
 
-I care about making data actually useful — clean analysis, honest models, and dashboards that tell a real story. My research focuses on **NLP for low-resource languages**, specifically Tamil-English code-mixed text.
+I enjoy working at the intersection of data and product — translating numbers into decisions, understanding user behavior, and building dashboards that actually get used. I've worked at **Celonis** doing process mining and KPI analytics, and I love projects where data directly shapes how a product grows.
 
-Currently open to **Summer 2026 internships** in Data Analytics, Product Analytics, and Data Science.
+Currently open to **Summer 2026 internships** in Product Analytics and Data Analytics.
 
 <br/>
 
@@ -32,11 +32,11 @@ Currently open to **Summer 2026 internships** in Data Analytics, Product Analyti
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 📊 **Superstore Sales Dashboard** | Interactive retail analytics — revenue, profit & regional trends | Python · SQL · Streamlit | [Live ↗](https://sql-sales-dashboard.streamlit.app) |
-| 🎵 **Spotify Audio DNA** | Clusters your listening history by sonic fingerprint | Python · Spotify API · Scikit-learn | [Live ↗](https://spotify-audio-dna.streamlit.app) |
-| 🧠 **Multilingual Sarcasm Detection** | Indic-BERT fine-tuned on Tamil-English code-mixed data — undergraduate thesis | HuggingFace · PyTorch · Tamil NLP | [GitHub ↗](https://github.com/namrathajeetendra) |
-| 💡 **EmoTrac** | Emotion trigger detection with CNN + BERT hybrid — **95% accuracy** | TensorFlow · BERT · CNN | [GitHub ↗](https://github.com/namrathajeetendra) |
-| 🚗 **RideIQ** *(in progress)* | Ride-share analytics — pricing patterns & demand surges | Python · Streamlit | Soon |
+| 📊 **Superstore Sales Dashboard** | End-to-end retail analytics — revenue trends, profit margins & regional breakdowns | Python · SQL · Streamlit | [Live ↗](https://sql-sales-dashboard.streamlit.app) |
+| 🎵 **Spotify Audio DNA** | Analyzes listening behavior and clusters tracks by audio profile | Python · Spotify API · Scikit-learn · Streamlit | [Live ↗](https://spotify-audio-dna.streamlit.app) |
+| 🚗 **RideIQ** *(in progress)* | Ride-share analytics — pricing patterns, demand surges & rider behavior | Python · SQL · Streamlit | Soon |
+| 🧠 **Multilingual Sarcasm Detection** | Fine-tuned transformer model on Tamil-English social media data | HuggingFace · PyTorch | [GitHub ↗](https://github.com/namrathajeetendra) |
+| 💡 **EmoTrac** | Emotion trigger detection — CNN + BERT, 95% accuracy | TensorFlow · BERT | [GitHub ↗](https://github.com/namrathajeetendra) |
 
 <br/>
 
@@ -44,26 +44,24 @@ Currently open to **Summer 2026 internships** in Data Analytics, Product Analyti
 
 ### 🛠️ &nbsp; Tech Stack
 
-**Languages**&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-F4A7B9?style=flat-square&logoColor=white&logo=python)
+**Analytics & Viz**&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-A8C8B8?style=flat-square&logoColor=white&logo=postgresql)
-![R](https://img.shields.io/badge/R-C8B8E8?style=flat-square&logoColor=white&logo=r)
-
-**ML & AI**&nbsp;&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-F4A7B9?style=flat-square&logoColor=white&logo=pytorch)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-C8B8E8?style=flat-square&logoColor=white&logo=huggingface)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-A8C8B8?style=flat-square&logoColor=white&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F4A7B9?style=flat-square&logoColor=white&logo=tensorflow)
-
-**Data & Viz**&nbsp;&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-F4A7B9?style=flat-square&logoColor=white&logo=streamlit)
+![Python](https://img.shields.io/badge/Python-F4A7B9?style=flat-square&logoColor=white&logo=python)
 ![Power BI](https://img.shields.io/badge/Power%20BI-C8B8E8?style=flat-square&logoColor=white&logo=powerbi)
+![Streamlit](https://img.shields.io/badge/Streamlit-F4A7B9?style=flat-square&logoColor=white&logo=streamlit)
 ![Pandas](https://img.shields.io/badge/Pandas-A8C8B8?style=flat-square&logoColor=white&logo=pandas)
 
+**ML & Data Science**&nbsp;&nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-A8C8B8?style=flat-square&logoColor=white&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/PyTorch-F4A7B9?style=flat-square&logoColor=white&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-C8B8E8?style=flat-square&logoColor=white&logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F4A7B9?style=flat-square&logoColor=white&logo=tensorflow)
+
 **Tools**&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/Docker-A8C8B8?style=flat-square&logoColor=white&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C8B8E8?style=flat-square&logoColor=white&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-A8C8B8?style=flat-square&logoColor=white&logo=docker)
 ![Celonis](https://img.shields.io/badge/Celonis-F4A7B9?style=flat-square&logoColor=white)
+![R](https://img.shields.io/badge/R-C8B8E8?style=flat-square&logoColor=white&logo=r)
 
 <br/>
 
@@ -87,6 +85,6 @@ Currently open to **Summer 2026 internships** in Data Analytics, Product Analyti
 
 *From Chennai 🌴 · Based in College Park, MD · Always learning*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,C8A8D8,A8C8B8&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,E8A0BF,D4A0D8&height=100&section=footer" width="100%"/>
 
 </div>
